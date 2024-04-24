@@ -7,7 +7,7 @@ The Nextflow script `genotyping.nf` takes two input FASTQ files corresponding to
 * --r2 for reverse read file <br>
  
  
-Sample files to need to be downloaded from [here](https://gatech.box.com/s/izfb2cmhir3rhqz4hktq7y9buafwza4m) to the current working directory to test the Nextflow script. <br>
+Sample files cab be downloaded from [here](https://gatech.box.com/s/izfb2cmhir3rhqz4hktq7y9buafwza4m) to the current working directory to test the Nextflow script. <br>
 
 #### Example Usage:
 
