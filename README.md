@@ -1,4 +1,4 @@
-# nextflow_p2
+# Genotyping_nextflow
 Nextflow workflow for genotyping
 
 
